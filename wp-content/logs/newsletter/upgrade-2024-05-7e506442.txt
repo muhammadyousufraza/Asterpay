@@ -1,0 +1,159 @@
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 17.9 MB/512 MB -  > Start upgrade from 8.3.1
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_emails`] => Created table `rKB_newsletter_emails`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_sent`] => Created table `rKB_newsletter_sent`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter`] => Created table `rKB_newsletter`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_logs`] => Created table `rKB_newsletter_user_logs`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_meta`] => Created table `rKB_newsletter_user_meta`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_stats`] => Created table `rKB_newsletter_stats`
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_logs`] => Created table `rKB_newsletter_logs`
+    [rKB_newsletter_logs.status] => Changed type of rKB_newsletter_logs.status from int(11) to int
+)
+
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > Backing up options of 8.3.1
+06-05-2024 10:38:50 - INFO  - 8.3.2 - 18.2 MB/512 MB -  > End
+20-05-2024 10:24:27 - INFO  - 8.3.3 - 10.0 MB/512 MB -  > Start upgrade from 8.3.2
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_emails`] => Created table `rKB_newsletter_emails`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_sent`] => Created table `rKB_newsletter_sent`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter`] => Created table `rKB_newsletter`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_logs`] => Created table `rKB_newsletter_user_logs`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_meta`] => Created table `rKB_newsletter_user_meta`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_stats`] => Created table `rKB_newsletter_stats`
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_logs`] => Created table `rKB_newsletter_logs`
+    [rKB_newsletter_logs.status] => Changed type of rKB_newsletter_logs.status from int(11) to int
+)
+
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Deleting settings backup newsletter_backup_8.2.5
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > Backing up options of 8.3.2
+20-05-2024 10:24:28 - INFO  - 8.3.3 - 10.2 MB/512 MB -  > End
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 11.5 MB/512 MB -  > Start upgrade from 8.3.3
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_emails`] => Created table `rKB_newsletter_emails`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_sent`] => Created table `rKB_newsletter_sent`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter`] => Created table `rKB_newsletter`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_logs`] => Created table `rKB_newsletter_user_logs`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_meta`] => Created table `rKB_newsletter_user_meta`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_stats`] => Created table `rKB_newsletter_stats`
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_logs`] => Created table `rKB_newsletter_logs`
+    [rKB_newsletter_logs.status] => Changed type of rKB_newsletter_logs.status from int(11) to int
+)
+
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Deleting settings backup newsletter_backup_8.2.6
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > Backing up options of 8.3.3
+27-05-2024 10:20:27 - INFO  - 8.3.4 - 12.5 MB/512 MB -  > End
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 17.9 MB/512 MB -  > Start upgrade from 8.3.4
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_emails`] => Created table `rKB_newsletter_emails`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_sent`] => Created table `rKB_newsletter_sent`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter`] => Created table `rKB_newsletter`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_logs`] => Created table `rKB_newsletter_user_logs`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_user_meta`] => Created table `rKB_newsletter_user_meta`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_stats`] => Created table `rKB_newsletter_stats`
+)
+
+30-05-2024 10:26:19 - INFO  - 8.3.5 - 18.2 MB/512 MB -  > Array
+(
+    [`rKB_newsletter_logs`] => Created table `rKB_newsletter_logs`
+    [rKB_newsletter_logs.status] => Changed type of rKB_newsletter_logs.status from int(11) to int
+)
+
+30-05-2024 10:26:20 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Deleting settings backup newsletter_backup_8.2.7
+30-05-2024 10:26:20 - INFO  - 8.3.5 - 18.3 MB/512 MB -  > Backing up options of 8.3.4
+30-05-2024 10:26:20 - INFO  - 8.3.5 - 18.2 MB/512 MB -  > End

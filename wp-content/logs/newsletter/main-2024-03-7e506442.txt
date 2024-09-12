@@ -1,0 +1,4 @@
+08-03-2024 08:44:11 - FATAL - 8.2.1 - 9.0 MB/512 MB - [cron] > Delivery lock already set!
+10-03-2024 18:12:28 - FATAL - 8.2.1 - 10.4 MB/512 MB - [cron] > Delivery lock already set!
+26-03-2024 03:41:53 - FATAL - 8.2.4 - 10.4 MB/512 MB - [cron] > Delivery lock already set!
+30-03-2024 15:48:46 - FATAL - 8.2.5 - 10.4 MB/512 MB - [cron] > Delivery lock already set!
